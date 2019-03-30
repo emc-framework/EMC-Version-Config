@@ -4,7 +4,7 @@ Client Jar Download Fix For Aristois (Hacked Client)
 ```
 {
   "inheritsFrom": "1.13.2",
-  "id": "1.13.2-Carbon",
+  "id": "1.13.2-Aristois",
   "time": "2019-03-29T19:23:05-07:00",
   "releaseTime": "2019-03-29T19:23:05-07:00",
   "type": "release",
@@ -44,7 +44,7 @@ Client Jar Download Fix For Aristois (Hacked Client)
 ```
 {
   "inheritsFrom": "1.13.2",
-  "id": "1.13.2-Carbon",
+  "id": "1.13.2-Aristois",
   "time": "2019-03-29T19:23:05-07:00",
   "releaseTime": "2019-03-29T19:23:05-07:00",
   "type": "release",
