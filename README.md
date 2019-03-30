@@ -80,4 +80,4 @@ Client Jar Download Fix For Aristois (Hacked Client)
 }
 ```
 # Download the Fixed Config
-For some who had already downloaded their client launcher they might not need to do this since they already have a working version. Although if you are someone who is trying to get it you won't be able to due to the GitLab had changed their method on viewing raw files in a repo. Just select the version you need to download the client by downloading the .jason file and dragging the file into your minecraft folder.
+For some who had already downloaded their client launcher they might not need to do this since they already have a working version. Although if you are someone who is trying to get it you won't be able to due to the GitLab had changed their method on viewing raw files in a repo. Just select the version you need to download the client by downloading the .json file and dragging the file into your minecraft folder.
