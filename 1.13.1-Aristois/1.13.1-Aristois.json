@@ -1,0 +1,36 @@
+{
+  "inheritsFrom": "1.13.1",
+  "id": "1.13.1-Aristois",
+  "time": "2019-03-29T23:44:27-07:00",
+  "releaseTime": "2019-03-29T23:44:27-07:00",
+  "type": "release",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "me.deftware.launch.Launcher",
+      "--tweakClass",
+      "optifine.OptiFineForgeTweaker"
+    ]
+  },
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "libraries": [
+    {
+      "name": "net.minecraft:launchwrapper:1.12"
+    },
+    {
+      "name": "me.deftware:EMC:13.7.6-1.13.1",
+      "url": "https://raw.githubusercontent.com/emc-framework/maven/master/"
+    },
+    {
+      "name": "org.dimdev:mixin:0.7.11-SNAPSHOT",
+      "url": "https://www.dimdev.org/maven/"
+    },
+    {
+      "name": "net.jodah:typetools:0.5.0",
+      "url": "https://repo.maven.apache.org/maven2/"
+    },
+    {
+      "name": "optifine:OptiFine:1.13.1_HD_U_E4"
+    }
+  ]
+}
